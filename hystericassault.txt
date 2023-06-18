@@ -1,0 +1,44 @@
+input /pet Assault <t>;
+wait 2;
+input /ja "Astral Flow" <me>;
+wait 1.7;
+input /pet "Clarsach Call" <t>;
+wait 3;
+input /ja "Astral Conduit" <me>;
+wait 1;
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /ja "Convert" <me>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+wait 1.7
+input /pet "Hysteric Assault" <t>;
+input /echo done

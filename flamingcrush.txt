@@ -1,0 +1,43 @@
+input /pet "Astral Flow" <me>;
+wait 1.0;
+input /ja "Assault" <t>;
+wait 1.7;
+input /ja "Astral Conduit" <me>;
+wait 1.7;
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /ja "Convert" <me>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /pet "Flaming Crush" <t>;
+wait 1.7
+input /echo done
